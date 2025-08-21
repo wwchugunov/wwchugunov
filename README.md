@@ -77,7 +77,7 @@ I constantly **learn and improve**, staying up-to-date with modern technologies 
     <td width="50%">
       <strong>⚫ Backend</strong><br>
       Node.js / Express ▓▓▓▓▓▓▓▓░░ 80%<br>
-      Sequelize / PostgreSQL ▓▓▓▓▓▓▓░░░ 70%
+      Sequelize / Postgres ▓▓▓▓▓▓▓░░░ 70%
     </td>
   </tr>
 </table>
