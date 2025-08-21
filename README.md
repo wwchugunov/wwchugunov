@@ -8,21 +8,21 @@ Open to **collaboration, freelance projects, and long-term partnerships**.
 
 ---
 
-## 📊 Skills Overview  
+## 🛠 Skills Overview  
 
-**Frontend**  
-- React / React Native ▓▓▓▓▓▓▓▓░░ 80%  
-- HTML / CSS ▓▓▓▓▓▓▓▓▓░ 90%  
-- JavaScript ▓▓▓▓▓▓▓▓▓░ 90%  
+### 🎨 Frontend  
+- **React / React Native**  ▓▓▓▓▓░░░░░ 70%  
+- **HTML / CSS**      ▓▓▓▓▓▓▓▓▓░ 95%  
+- **JavaScript**      ▓▓▓▓▓▓▓▓░░ 80%  
 
-**Backend**  
-- Node.js / Express ▓▓▓▓▓▓▓▓▓░ 90%  
-- PostgreSQL / Sequelize ▓▓▓▓▓▓▓░░░ 70%  
+### ⚙️ Backend  
+- **Node.js / Express**  ▓▓▓▓▓▓▓▓░░ 80%  
+- **PostgreSQL / Sequelize** ▓▓▓▓▓▓░░░░ 60%  
 
-**Tools**  
-- Git & GitHub ▓▓▓▓▓▓▓▓▓░ 90%  
-- Docker ▓▓▓▓▓░░░░░░ 50%  
-- Automation (Excel/CSV, APIs) ▓▓▓▓▓▓▓▓░░ 80%  
+### 🧰 Tools  
+- **Git & GitHub**     ▓▓▓▓▓▓▓▓▓░ 90%  
+- **Docker**       ▓▓▓▓░░░░░░░ 40%  
+- **Automation (Excel/CSV, APIs)** ▓▓▓▓▓▓▓░░░ 80%  
 
 ---
 
@@ -32,7 +32,7 @@ Open to **collaboration, freelance projects, and long-term partnerships**.
 
 ---
 
-## 🔧 What I Do  
+## 🚀 What I Do  
 
 - Develop scalable **web & desktop applications**  
 - Automate **business processes** and reporting  
