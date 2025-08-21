@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Tools-GitHub-gray?style=for-the-badge&logo=github" />
 </div>
 
----
+
 
 ## 🧑‍💻 About Me
 
@@ -22,7 +22,7 @@ I am a **Middle Fullstack Developer** passionate about delivering complete solut
 I enjoy transforming concepts into working products and optimizing workflows for maximum efficiency.  
 I constantly **learn and improve**, staying up-to-date with modern technologies and best practices.  
 
----
+
 
 
 <div align="left">
@@ -35,7 +35,7 @@ I constantly **learn and improve**, staying up-to-date with modern technologies 
 </div>
 
 
----
+
 
 ## 📫 Contact
 
