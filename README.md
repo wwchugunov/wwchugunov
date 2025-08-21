@@ -66,7 +66,7 @@ I constantly **learn and improve**, staying up-to-date with modern technologies 
 
 ## ⚡ Skills & Expertise
 
-<div align="center">
+<div align="left">
 <table cellspacing="20" style="border: none;">
   <tr>
     <td >
