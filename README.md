@@ -2,8 +2,9 @@
 
 <!-- Header с анимацией -->
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/wwchugunov/assets/main/header-dev.png" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header" />
 </div>
+
 
 
 
