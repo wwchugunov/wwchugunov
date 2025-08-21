@@ -22,8 +22,7 @@
 ## ⚡ Skills  
 
 ### 🔵 Frontend
-- **React / React Native**  
-  ![React](https://img.shields.io/badge/70%25-000000?style=for-the-badge&logo=react&logoColor=61DAFB)  
+- **React ![React](https://img.shields.io/badge/70%25-000000?style=for-the-badge&logo=react&logoColor=61DAFB)  
 - **HTML / CSS**  
   ![HTML](https://img.shields.io/badge/95%25-000000?style=for-the-badge&logo=html5&logoColor=E34F26)  
 - **JavaScript**  
