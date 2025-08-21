@@ -21,21 +21,12 @@
 
 ## ⚡ Skills  
 
-### 🔵 Frontend
- ![React](https://img.shields.io/badge/70%25-000000?style=for-the-badge&logo=react&logoColor=61DAFB)  
- ![HTML](https://img.shields.io/badge/95%25-000000?style=for-the-badge&logo=html5&logoColor=E34F26)  
- ![JS](https://img.shields.io/badge/80%25-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+| 🔵 Frontend | ⚫ Backend | ⚙️ Tools |
+|------------|-----------|----------|
+| ![React](https://img.shields.io/badge/70%25-000000?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Node](https://img.shields.io/badge/80%25-111111?style=for-the-badge&logo=node.js&logoColor=43853D) | ![Git](https://img.shields.io/badge/90%25-333333?style=for-the-badge&logo=git&logoColor=F05032) |
+| ![HTML](https://img.shields.io/badge/95%25-000000?style=for-the-badge&logo=html5&logoColor=E34F26) | ![Postgres](https://img.shields.io/badge/60%25-111111?style=for-the-badge&logo=postgresql&logoColor=316192) | ![Docker](https://img.shields.io/badge/40%25-333333?style=for-the-badge&logo=docker&logoColor=2496ED) |
+| ![JS](https://img.shields.io/badge/80%25-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | | ![Automation](https://img.shields.io/badge/80%25-333333?style=for-the-badge&logo=python&logoColor=3776AB) |
 
-### ⚫ Backend
-  ![Node](https://img.shields.io/badge/80%25-111111?style=for-the-badge&logo=node.js&logoColor=43853D)  
-  ![Postgres](https://img.shields.io/badge/60%25-111111?style=for-the-badge&logo=postgresql&logoColor=316192)  
-
-### ⚙️ Tools
-  ![Git](https://img.shields.io/badge/90%25-333333?style=for-the-badge&logo=git&logoColor=F05032)  
-  ![Docker](https://img.shields.io/badge/40%25-333333?style=for-the-badge&logo=docker&logoColor=2496ED)  
-  ![Automation](https://img.shields.io/badge/80%25-333333?style=for-the-badge&logo=python&logoColor=3776AB)  
-
----
 
 ## 📊 Skill Graphs  
 
