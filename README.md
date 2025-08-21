@@ -8,24 +8,40 @@ Open to **collaboration, freelance projects, and long-term partnerships**.
 
 ---
 
-## Expertise  
+## 📊 Skills Overview  
 
-- **Frontend:** React, React Native, HTML, CSS, JavaScript  
-- **Backend:** Node.js, Express, PostgreSQL, Sequelize  
-- **Tools & Practices:** Git, GitHub, Docker, Jest, Automation (Excel/CSV), API integration  
+**Frontend**  
+- React / React Native ▓▓▓▓▓▓▓▓░░ 80%  
+- HTML / CSS ▓▓▓▓▓▓▓▓▓░ 90%  
+- JavaScript ▓▓▓▓▓▓▓▓▓░ 90%  
+
+**Backend**  
+- Node.js / Express ▓▓▓▓▓▓▓▓▓░ 90%  
+- PostgreSQL / Sequelize ▓▓▓▓▓▓▓░░░ 70%  
+
+**Tools**  
+- Git & GitHub ▓▓▓▓▓▓▓▓▓░ 90%  
+- Docker ▓▓▓▓▓░░░░░░ 50%  
+- Automation (Excel/CSV, APIs) ▓▓▓▓▓▓▓▓░░ 80%  
 
 ---
 
-## What I Do  
+## 📈 Languages I Use  
 
-- Develop scalable web & desktop applications  
-- Automate business processes and reporting  
-- Help startups and companies bring ideas to life  
-- Work directly with clients for tailored solutions  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wwchugunov&layout=compact&theme=default)  
 
 ---
 
-## Contact  
+## 🔧 What I Do  
+
+- Develop scalable **web & desktop applications**  
+- Automate **business processes** and reporting  
+- Help startups and companies **bring ideas to life**  
+- Work directly with clients for **tailored solutions**  
+
+---
+
+## 📬 Contact  
 
 - ✉️ Email: [your.email@example.com](mailto:your.email@example.com)  
 - 💬 Telegram: [@YourTelegram](https://t.me/YourTelegram)  
