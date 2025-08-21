@@ -27,8 +27,7 @@ I constantly **learn and improve**, staying up-to-date with modern technologies 
 
 ---
 
-<div align="center">
-
+<div align="left">
 <div style="padding: 20px; border-radius: 15px; background: linear-gradient(135deg, #0A001F 0%, #1a0b3d 100%);">
   <div align="center">
     <img src="https://skillicons.dev/icons?i=python,react,nodejs,postgres,docker&theme=dark" />
