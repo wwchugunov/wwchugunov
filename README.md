@@ -22,24 +22,7 @@ I am a **Middle Fullstack Developer** passionate about delivering complete solut
 I enjoy transforming concepts into working products and optimizing workflows for maximum efficiency.  
 I constantly **learn and improve**, staying up-to-date with modern technologies and best practices.  
 
----
 
-<div align="center">
-<table cellspacing="15" style="border: none; background: none;">
-  <tr>
-    <td width="100%">
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwchugunov&layout=compact&theme=radical&bg_color=0A001F&hide_border=true&title_color=00FFFF&text_color=D6CFFF&icon_color=FF3F8E&card_width=450&langs_count=8&cache_seconds=1800" />
-      </div>
-    </td>
-<!--     <td width="50%">
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=wwchugunov&show_icons=true&theme=radical&bg_color=0A001F&hide_border=true&icon_color=00FFFF&title_color=FF3F8E&text_color=D6CFFF&card_width=450&cache_seconds=1800" alt="GitHub Stats" />
-      </div>
-    </td> -->
-  </tr>
-</table>
-</div>
 
 <!-- Activity heatmap -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wwchugunov&bg_color=0A001F&color=D6CFFF&line=00FFFF&point=FF3F8E&area=true&hide_border=true&custom_title=Activity%20Graph&area_color=7C3AED&radius=8" width="100%"/>
