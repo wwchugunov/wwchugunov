@@ -1,8 +1,5 @@
 <div align="center">
-
-<!-- Enhanced synthwave header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=140&section=header&animation=twinkling&fontAlignY=35&desc=%20&descAlignY=51&descAlign=62"/>
-
 </div>
 
 # 👋 Hi, I'm Vasyl Chuhunov  
@@ -14,7 +11,7 @@
   <img src="https://img.shields.io/badge/Tools-GitHub-gray?style=for-the-badge&logo=github" />
 </div>
 
-
+---
 
 ## 🧑‍💻 About Me
 
