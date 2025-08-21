@@ -68,13 +68,13 @@ I constantly **learn and improve**, staying up-to-date with modern technologies 
 
 <div align="left">
 <table cellspacing="20" style="border: none;">
-  <tr>
-    <td >
+  <tr style="border: none;">
+    <td  style="border: none;">
       <strong>🔵 Frontend</strong><br>
       React / React Native ▓▓▓▓▓░░░░░ 45%<br>
       HTML / CSS / JS ▓▓▓▓▓▓▓▓░░ 90%
     </td>
-    <td >
+    <td style="border: none;">
       <strong>⚫ Backend</strong><br>
       Node.js / Express ▓▓▓▓▓▓▓▓░░ 80%<br>
       Postgres ▓▓▓▓▓▓▓░░░ 70%
