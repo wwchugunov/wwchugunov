@@ -41,8 +41,6 @@ I constantly **learn and improve**, staying up-to-date with modern technologies 
 - 💻 GitHub: [wwchugunov](https://github.com/wwchugunov)
 </div>
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=100&section=footer&animation=twinkling"/>
 
 
 
