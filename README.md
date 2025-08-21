@@ -23,23 +23,16 @@
 
 ### 🔵 Frontend
  ![React](https://img.shields.io/badge/70%25-000000?style=for-the-badge&logo=react&logoColor=61DAFB)  
-
-  ![HTML](https://img.shields.io/badge/95%25-000000?style=for-the-badge&logo=html5&logoColor=E34F26)  
-
-  ![JS](https://img.shields.io/badge/80%25-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+ ![HTML](https://img.shields.io/badge/95%25-000000?style=for-the-badge&logo=html5&logoColor=E34F26)  
+ ![JS](https://img.shields.io/badge/80%25-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
 
 ### ⚫ Backend
-- **Node.js / Express**  
   ![Node](https://img.shields.io/badge/80%25-111111?style=for-the-badge&logo=node.js&logoColor=43853D)  
-- **PostgreSQL / Sequelize**  
   ![Postgres](https://img.shields.io/badge/60%25-111111?style=for-the-badge&logo=postgresql&logoColor=316192)  
 
 ### ⚙️ Tools
-- **Git & GitHub**  
   ![Git](https://img.shields.io/badge/90%25-333333?style=for-the-badge&logo=git&logoColor=F05032)  
-- **Docker**  
   ![Docker](https://img.shields.io/badge/40%25-333333?style=for-the-badge&logo=docker&logoColor=2496ED)  
-- **Automation (Excel/CSV, APIs)**  
   ![Automation](https://img.shields.io/badge/80%25-333333?style=for-the-badge&logo=python&logoColor=3776AB)  
 
 ---
@@ -58,8 +51,8 @@
 
 ## 📫 Contact  
 
-- 📧 Email: **yourmail@example.com**  
-- 💬 Telegram: [@yourusername](https://t.me/yourusername)  
+- 📧 Email: **w.w.chugunov@gmail.com**  
+- 💬 Telegram: [@yourusername](https://t.me/Chugunofff)  
 - 💻 GitHub: [wwchugunov](https://github.com/wwchugunov)  
 
 ---
