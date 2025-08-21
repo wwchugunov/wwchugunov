@@ -25,8 +25,6 @@ I constantly **learn and improve**, staying up-to-date with modern technologies 
 ---
 
 
----
-
 <div align="left">
 <div style="padding: 20px; border-radius: 15px; background: linear-gradient(135deg, #0A001F 0%, #1a0b3d 100%);">
   <div align="center">
@@ -35,9 +33,6 @@ I constantly **learn and improve**, staying up-to-date with modern technologies 
 </div>
 
 </div>
-
----
-
 
 
 ---
