@@ -2,9 +2,9 @@
 
 <!-- Header с анимацией -->
 <div align="center">
-<div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=140&section=header&text=Vasyl%20Chuhunov&fontSize=40&animation=fadeIn&fontColor=ffffff&desc=Fullstack%20Developer%20|%20React%20%26%20Node.js%20Enthusiast&descAlign=70&descAlignY=80" />
 </div>
+
 
 
 
