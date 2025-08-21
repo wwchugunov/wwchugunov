@@ -1,48 +1,44 @@
-# Hi, I'm Vasiliy Chugunov  
+import { Card, CardContent } from "@/components/ui/card";
+import { Progress } from "@/components/ui/progress";
 
-**Full-Stack Developer (Node.js, React, Electron)**  
+export default function Skills() {
+  const skills = [
+    { category: "Frontend", items: [
+      { name: "React / React Native", level: 70 },
+      { name: "HTML / CSS", level: 95 },
+      { name: "JavaScript", level: 80 },
+    ]},
+    { category: "Backend", items: [
+      { name: "Node.js / Express", level: 80 },
+      { name: "PostgreSQL / Sequelize", level: 60 },
+    ]},
+    { category: "Tools", items: [
+      { name: "Git & GitHub", level: 90 },
+      { name: "Docker", level: 40 },
+      { name: "Automation (Excel/CSV, APIs)", level: 80 },
+    ]},
+  ];
 
-I design and build **web applications, desktop tools, and automation systems**.  
-Focused on creating solutions that are **efficient, reliable, and scalable**.  
-Open to **collaboration, freelance projects, and long-term partnerships**.  
-
----
-
-## 🛠 Skills Overview  
-
-### 🎨 Frontend  
-- **React / React Native**  ▓▓▓▓▓░░░░░ 70%  
-- **HTML / CSS**      ▓▓▓▓▓▓▓▓▓░ 95%  
-- **JavaScript**      ▓▓▓▓▓▓▓▓░░ 80%  
-
-### ⚙️ Backend  
-- **Node.js / Express**  ▓▓▓▓▓▓▓▓░░ 80%  
-- **PostgreSQL / Sequelize** ▓▓▓▓▓▓░░░░ 60%  
-
-### 🧰 Tools  
-- **Git & GitHub**     ▓▓▓▓▓▓▓▓▓░ 90%  
-- **Docker**       ▓▓▓▓░░░░░░░ 40%  
-- **Automation (Excel/CSV, APIs)** ▓▓▓▓▓▓▓░░░ 80%  
-
----
-
-## 📈 Languages I Use  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wwchugunov&layout=compact&theme=default)  
-
----
-
-## 🚀 What I Do  
-
-- Develop scalable **web & desktop applications**  
-- Automate **business processes** and reporting  
-- Help startups and companies **bring ideas to life**  
-- Work directly with clients for **tailored solutions**  
-
----
-
-## 📬 Contact  
-
-- ✉️ Email: [your.email@example.com](mailto:your.email@example.com)  
-- 💬 Telegram: [@YourTelegram](https://t.me/YourTelegram)  
-- 🔗 GitHub: [wwchugunov](https://github.com/wwchugunov)  
+  return (
+    <div className="max-w-3xl mx-auto p-6 grid gap-6">
+      {skills.map((block, i) => (
+        <Card key={i} className="shadow-md border border-gray-200 rounded-2xl">
+          <CardContent className="p-6 space-y-4">
+            <h2 className="text-xl font-semibold text-gray-800">{block.category}</h2>
+            <div className="space-y-4">
+              {block.items.map((skill, j) => (
+                <div key={j}>
+                  <div className="flex justify-between mb-1">
+                    <span className="text-gray-700">{skill.name}</span>
+                    <span className="text-gray-500 text-sm">{skill.level}%</span>
+                  </div>
+                  <Progress value={skill.level} className="h-2 rounded-full" />
+                </div>
+              ))}
+            </div>
+          </CardContent>
+        </Card>
+      ))}
+    </div>
+  );
+}
