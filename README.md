@@ -74,10 +74,10 @@ I constantly **learn and improve**, staying up-to-date with modern technologies 
       React / React Native ▓▓▓▓▓░░░░░ 45%<br>
       HTML / CSS / JS ▓▓▓▓▓▓▓▓░░ 90%
     </td>
-    <td width="56%">
+    <td width="50%">
       <strong>⚫ Backend</strong><br>
       Node.js / Express ▓▓▓▓▓▓▓▓░░ 80%<br>
-      Sequelize / Postgres ▓▓▓▓▓▓▓░░░ 70%
+      Postgres ▓▓▓▓▓▓▓░░░ 70%
     </td>
   </tr>
 </table>
