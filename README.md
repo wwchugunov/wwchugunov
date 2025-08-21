@@ -1,18 +1,10 @@
-# 👋 Hi, I'm Vasiliy Chugunov
+# 👋 Hi, I'm Vasiliy Chugunov  
 
 **Full-Stack Developer | Node.js, React, Electron**  
 
 💻 I build **web apps**, **desktop applications**, and **automation tools**.  
 🤝 Open for collaboration, freelance projects, and long-term partnerships.  
 🌱 Passionate about creating efficient, maintainable, and scalable solutions.  
-
----
-
-## 📊 GitHub Stats  
-
-![Vasiliy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwchugunov&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wwchugunov&layout=compact&theme=radical)  
 
 ---
 
@@ -42,9 +34,9 @@
 
 ## 🚀 What I Do  
 - Build scalable and efficient **web & desktop applications**  
-- Automate business processes and reporting  
-- Help startups and companies turn ideas into real products  
-- Collaborate directly with clients for **tailored solutions**  
+- Automate **business processes** and reporting  
+- Help startups and companies **turn ideas into real products**  
+- Work directly with clients for **tailored solutions**  
 
 ---
 
