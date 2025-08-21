@@ -70,7 +70,7 @@ I constantly **learn and improve**, staying up-to-date with modern technologies 
 <table cellspacing="20" style="border: none;">
   <tr>
     <td width="50%">
-      <strong>🔵 Frontend/strong><br>
+      <strong>🔵 Frontend</strong><br>
       React / React Native ▓▓▓▓▓░░░░░ 45%<br>
       HTML / CSS / JavaScript ▓▓▓▓▓▓▓▓░░ 90%
     </td>
