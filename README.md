@@ -28,8 +28,9 @@ I constantly **learn and improve**, staying up-to-date with modern technologies 
 ## ⚡ Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,nodejs,postgres,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,react,nodejs,postgres,docker,git,gitbash&theme=dark" />
 </div>
+
 
 ---
 
