@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Header с анимацией -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=140&section=header&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=140&section=header&animation=twinkling&fontAlignY=35"](https://capsule-render.vercel.app/api?type=text&text=Vasyl%20Chuhunov&color=gradient&height=140&animation=twinkling
+)/>
 
 <h1>👋 Hi, I'm Vasyl Chuhunov</h1>
 
