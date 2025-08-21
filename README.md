@@ -24,8 +24,6 @@ I constantly **learn and improve**, staying up-to-date with modern technologies 
 
 ---
 
-<!-- Activity heatmap -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wwchugunov&bg_color=0A001F&color=D6CFFF&line=00FFFF&point=FF3F8E&area=true&hide_border=true&custom_title=Activity%20Graph&area_color=7C3AED&radius=8" width="100%"/>
 
 ---
 
@@ -41,38 +39,7 @@ I constantly **learn and improve**, staying up-to-date with modern technologies 
 
 ---
 
-## ⚡ Skills & Expertise
 
-<div align="center">
-<table cellspacing="20" style="border: none;">
-  <tr>
-    <td width="33%">
-      <strong>💻 Programming</strong><br>
-      Python ▓▓▓▓▓▓▓▓░░ 10%<br>
-      SQL / PostgreSQL ▓▓▓▓▓▓▓░░░ 75%
-    </td>
-    <td width="33%">
-      <strong>🔵 Frontend</strong><br>
-      React / React Native ▓▓▓▓▓░░░░░ 45%<br>
-      HTML / CSS / JavaScript ▓▓▓▓▓▓▓▓░░ 90%
-    </td>
-    <td width="33%">
-      <strong>⚫ Backend</strong><br>
-      Node.js / Express ▓▓▓▓▓▓▓▓░░ 80%<br>
-      Sequelize / PostgreSQL ▓▓▓▓▓▓▓░░░ 70%
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3">
-      <strong>⚙️ Tools & Infrastructure</strong><br>
-      Windows Server / Linux Administration ▓▓▓▓▓▓▓▓░░ 60%<br>
-      Cisco Networking ▓▓▓▓▓▓░░░░ 10%<br>
-      Docker / Virtualization ▓▓▓▓▓▓▓░░░ 30%<br>
-      Automation (APIs, Excel/CSV) ▓▓▓▓▓▓▓▓░░ 85%
-    </td>
-  </tr>
-</table>
-</div>
 
 ---
 
