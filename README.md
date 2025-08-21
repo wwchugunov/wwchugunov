@@ -2,8 +2,9 @@
 
 <!-- Header с анимацией -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=140&section=header&text=Vasyl%20Chuhunov&fontSize=50&animation=blinking" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=coding&color=gradient&height=140&section=header&text=Vasyl%20Chuhunov&fontSize=40&animation=twinkling" />
 </div>
+
 
 
 
