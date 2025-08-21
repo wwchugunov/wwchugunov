@@ -69,30 +69,15 @@ I constantly **learn and improve**, staying up-to-date with modern technologies 
 <div align="center">
 <table cellspacing="20" style="border: none;">
   <tr>
-    <td width="33%">
-      <strong>💻 Programming</strong><br>
-      C / C++ ▓▓▓▓▓▓░░░ 10%<br>
-      Python ▓▓▓▓▓▓▓▓░░ 10%<br>
-      SQL / PostgreSQL ▓▓▓▓▓▓▓░░░ 75%
-    </td>
-    <td width="33%">
+    <td width="50%">
       <strong>🔵 Frontend</strong><br>
       React / React Native ▓▓▓▓▓░░░░░ 45%<br>
       HTML / CSS / JavaScript ▓▓▓▓▓▓▓▓░░ 90%
     </td>
-    <td width="33%">
+    <td width="50%">
       <strong>⚫ Backend</strong><br>
       Node.js / Express ▓▓▓▓▓▓▓▓░░ 80%<br>
       Sequelize / PostgreSQL ▓▓▓▓▓▓▓░░░ 70%
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3">
-      <strong>⚙️ Tools & Infrastructure</strong><br>
-      Windows Server / Linux Administration ▓▓▓▓▓▓▓▓░░ 60%<br>
-      Cisco Networking ▓▓▓▓▓▓░░░░ 10%<br>
-      Docker / Virtualization ▓▓▓▓▓▓▓░░░ 30%<br>
-      Automation (APIs, Excel/CSV) ▓▓▓▓▓▓▓▓░░ 85%
     </td>
   </tr>
 </table>
