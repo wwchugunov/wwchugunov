@@ -32,11 +32,11 @@ I constantly **learn and improve**, staying up-to-date with modern technologies 
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwchugunov&layout=compact&theme=radical&bg_color=0A001F&hide_border=true&title_color=00FFFF&text_color=D6CFFF&icon_color=FF3F8E&card_width=450&langs_count=8&cache_seconds=1800" />
       </div>
     </td>
-    <td width="50%">
+<!--     <td width="50%">
       <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=wwchugunov&show_icons=true&theme=radical&bg_color=0A001F&hide_border=true&icon_color=00FFFF&title_color=FF3F8E&text_color=D6CFFF&card_width=450&cache_seconds=1800" alt="GitHub Stats" />
       </div>
-    </td>
+    </td> -->
   </tr>
 </table>
 </div>
