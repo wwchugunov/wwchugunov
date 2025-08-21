@@ -1,44 +1,45 @@
-import { Card, CardContent } from "@/components/ui/card";
-import { Progress } from "@/components/ui/progress";
+# 👋 Hi, I'm Vasiliy Chugunov
 
-export default function Skills() {
-  const skills = [
-    { category: "Frontend", items: [
-      { name: "React / React Native", level: 70 },
-      { name: "HTML / CSS", level: 95 },
-      { name: "JavaScript", level: 80 },
-    ]},
-    { category: "Backend", items: [
-      { name: "Node.js / Express", level: 80 },
-      { name: "PostgreSQL / Sequelize", level: 60 },
-    ]},
-    { category: "Tools", items: [
-      { name: "Git & GitHub", level: 90 },
-      { name: "Docker", level: 40 },
-      { name: "Automation (Excel/CSV, APIs)", level: 80 },
-    ]},
-  ];
+## 🧑 About Me
+I'm a **Fullstack Developer** from Ukraine with strong experience in  
+building web apps, automation tools, Telegram bots, and social networks.  
+Passionate about **clean code**, **modern UI/UX**, and **scalable backend systems**.  
 
-  return (
-    <div className="max-w-3xl mx-auto p-6 grid gap-6">
-      {skills.map((block, i) => (
-        <Card key={i} className="shadow-md border border-gray-200 rounded-2xl">
-          <CardContent className="p-6 space-y-4">
-            <h2 className="text-xl font-semibold text-gray-800">{block.category}</h2>
-            <div className="space-y-4">
-              {block.items.map((skill, j) => (
-                <div key={j}>
-                  <div className="flex justify-between mb-1">
-                    <span className="text-gray-700">{skill.name}</span>
-                    <span className="text-gray-500 text-sm">{skill.level}%</span>
-                  </div>
-                  <Progress value={skill.level} className="h-2 rounded-full" />
-                </div>
-              ))}
-            </div>
-          </CardContent>
-        </Card>
-      ))}
-    </div>
-  );
-}
+- 🌍 Based in Kyiv, Ukraine  
+- 💼 Open to collaboration & remote opportunities  
+- 📫 Contact: [Telegram](https://t.me/your_username) | [GitHub](https://github.com/wwchugunov) | ✉️ your@email.com  
+
+---
+
+## 🛠 Tech Stack
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)  
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Automation](https://img.shields.io/badge/Automation-000000?style=for-the-badge&logo=zapier&logoColor=FF4A00)  
+
+---
+
+## 📊 Skill Graphs  
+
+### Frontend
+```mermaid
+pie showData
+  title Frontend Skills
+  "React / React Native (70%)" : 70
+  "HTML / CSS (95%)" : 95
+  "JavaScript (80%)" : 80
