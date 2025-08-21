@@ -36,10 +36,11 @@ I constantly **learn and improve**, staying up-to-date with modern technologies 
 ## 📫 Contact Me
 
 <div align="center">
-- 📧 Email: **w.w.chugunov@gmail.com**  
-- 💬 Telegram: [@Chugunofff](https://t.me/Chugunofff)  
-- 💻 GitHub: [wwchugunov](https://github.com/wwchugunov)
+  <a href="mailto:w.w.chugunov@gmail.com" title="Email">📧</a><br/>
+  <a href="https://t.me/Chugunofff" target="_blank" title="Telegram">💬</a><br/>
+  <a href="https://github.com/wwchugunov" target="_blank" title="GitHub">💻</a>
 </div>
+
 
 
 
