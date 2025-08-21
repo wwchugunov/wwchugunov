@@ -1,45 +1,66 @@
-# 👋 Hi, I'm Vasiliy Chugunov
+# 👋 Hi, I'm Vasyl Chuhunov  
 
-## 🧑 About Me
-I'm a **Fullstack Developer** from Ukraine with strong experience in  
-building web apps, automation tools, Telegram bots, and social networks.  
-Passionate about **clean code**, **modern UI/UX**, and **scalable backend systems**.  
-
-- 🌍 Based in Kyiv, Ukraine  
-- 💼 Open to collaboration & remote opportunities  
-- 📫 Contact: [Telegram](https://t.me/your_username) | [GitHub](https://github.com/wwchugunov) | ✉️ your@email.com  
+<div align="center">
+  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-black?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-316192?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Tools-GitHub-gray?style=for-the-badge&logo=github" />
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 🧑‍💻 About Me  
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+- 💡 Fullstack developer from **Ukraine**  
+- 🚀 Passionate about **building apps, automation tools, and social networks**  
+- 📈 Experienced with **large-scale data (CSV/Excel, APIs, automation)**  
+- 🌍 Open to remote work and international opportunities  
+- 🎯 Goal: reach **$2000+/month as a developer**  
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)  
+---
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Automation](https://img.shields.io/badge/Automation-000000?style=for-the-badge&logo=zapier&logoColor=FF4A00)  
+## ⚡ Skills  
+
+### 🔵 Frontend
+- **React / React Native**  
+  ![React](https://img.shields.io/badge/70%25-000000?style=for-the-badge&logo=react&logoColor=61DAFB)  
+- **HTML / CSS**  
+  ![HTML](https://img.shields.io/badge/95%25-000000?style=for-the-badge&logo=html5&logoColor=E34F26)  
+- **JavaScript**  
+  ![JS](https://img.shields.io/badge/80%25-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+
+### ⚫ Backend
+- **Node.js / Express**  
+  ![Node](https://img.shields.io/badge/80%25-111111?style=for-the-badge&logo=node.js&logoColor=43853D)  
+- **PostgreSQL / Sequelize**  
+  ![Postgres](https://img.shields.io/badge/60%25-111111?style=for-the-badge&logo=postgresql&logoColor=316192)  
+
+### ⚙️ Tools
+- **Git & GitHub**  
+  ![Git](https://img.shields.io/badge/90%25-333333?style=for-the-badge&logo=git&logoColor=F05032)  
+- **Docker**  
+  ![Docker](https://img.shields.io/badge/40%25-333333?style=for-the-badge&logo=docker&logoColor=2496ED)  
+- **Automation (Excel/CSV, APIs)**  
+  ![Automation](https://img.shields.io/badge/80%25-333333?style=for-the-badge&logo=python&logoColor=3776AB)  
 
 ---
 
 ## 📊 Skill Graphs  
 
-### Frontend
-```mermaid
-pie showData
-  title Frontend Skills
-  "React / React Native (70%)" : 70
-  "HTML / CSS (95%)" : 95
-  "JavaScript (80%)" : 80
+<div align="center">
+
+![Frontend](https://img.shields.io/badge/Frontend-70%25-blue?style=for-the-badge&logo=react)  
+![Backend](https://img.shields.io/badge/Backend-75%25-black?style=for-the-badge&logo=node.js)  
+![Tools](https://img.shields.io/badge/Tools-70%25-gray?style=for-the-badge&logo=github)  
+
+</div>
+
+---
+
+## 📫 Contact  
+
+- 📧 Email: **yourmail@example.com**  
+- 💬 Telegram: [@yourusername](https://t.me/yourusername)  
+- 💻 GitHub: [wwchugunov](https://github.com/wwchugunov)  
+
+---
