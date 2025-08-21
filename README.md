@@ -35,7 +35,7 @@ I constantly **learn and improve**, staying up-to-date with modern technologies 
 
 ## 📫 Contact Me
 
-<div align="center">
+<div align="left">
   <a href="mailto:w.w.chugunov@gmail.com" title="Email">📧</a><br/>
   <a href="https://t.me/Chugunofff" target="_blank" title="Telegram">💬</a><br/>
   <a href="https://github.com/wwchugunov" target="_blank" title="GitHub">💻</a>
