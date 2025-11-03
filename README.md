@@ -1,40 +1,30 @@
 # 👋 Vasyl Chuhunov — Full Stack / System Developer
 
 ### 🧠 About me
-I’m a software engineer from Kyiv, passionate about automation, backend systems, and building tools that make work faster and smarter.  
-I have strong practical experience with **Node.js** and **automation scripts**, and now I’m expanding into **C++** and **system-level development** to move closer to GPU and AI engineering.
+I’m a software engineer from Kyiv, focused on **Node.js automation**, **desktop tools**, and now expanding into **C++ system programming**.  
+I enjoy creating efficient systems — from browser automation and data tools to desktop and low-level applications.  
+Currently studying **C++**, **SFML**, and **OpenGL** to move toward **GPU and AI engineering**.
 
 ---
 
 ### 💻 Tech Stack
 
 #### 🟩 Core
-- **Node.js / Express** — backend logic, API, Excel/CSV automation
-- **C++ (beginner level)** — learning algorithms, SFML, and graphics
-- **Python** — console utilities and Tkinter/Flet GUI
-- **Electron / React / HTML / CSS** — desktop and web interfaces
+- **Node.js / Express** — backend, REST API, Excel/CSV automation  
+- **C++ (beginner level)** — STL, graphics, SFML, OpenGL  
+- **Python** — scripting, automation, console utilities  
+- **Electron / React / HTML / CSS** — desktop and web interfaces  
 
 #### ⚙️ Tools & Frameworks
-- Puppeteer, XLSX, Sequelize ORM, PostgreSQL, dotenv, Winston  
-- Git, Bash, PowerShell, macOS & Linux CLI  
+- Puppeteer, XLSX, Sequelize, PostgreSQL  
+- Git, Bash, PowerShell, macOS / Linux  
 - Docker (basic), GitHub Actions  
 
 #### 🎯 Currently Learning
-- C++ fundamentals and STL  
-- SFML / OpenGL graphics  
-- Math for physics and GPU simulation  
+- Modern C++ and STL best practices  
+- SFML and OpenGL (graphics, simulation)  
+- Math for 3D / physics (vectors, geometry)  
 - Node.js + C++ integration (N-API)
-
----
-
-### 🚀 Featured Projects
-| Project | Description | Stack |
-|----------|--------------|--------|
-| 🧩 [BotAdmin_Server](https://github.com/wwchugunov/apibotadmin_server) | Telegram admin panel with DB, authorization, and user management | Node.js, Express, Sequelize |
-| 💼 [Paylink Automation](https://github.com/wwchugunov/paylink) | Excel/Browser automation for transaction search | Node.js, Puppeteer, XLSX |
-| 📊 [CSV Compare Tool](https://github.com/wwchugunov/csv-compare) | High-performance CSV comparison for 900k+ rows | Node.js, Streams |
-| 🌐 [Visitka](https://github.com/wwchugunov/visitka) | Personal web portfolio | HTML, CSS |
-| 🧠 [C++ Mini Projects](https://github.com/wwchugunov/cpp-experiments) | Early-stage experiments with SFML, OpenGL, and physics | C++ |
 
 ---
 
