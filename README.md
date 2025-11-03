@@ -1,67 +1,59 @@
-<div align="center">
+# 👋 Vasyl Chuhunov — Full Stack / System Developer
 
-<!-- Header с анимацией -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header" />
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-<h1>👋 Hi, I'm Vasyl Chuhunov</h1>
-
-<!-- Технологии -->
-<div>
-  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-black?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-316192?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Tools-GitHub-gray?style=for-the-badge&logo=github" />
-</div>
-
-</div>
+### 🧠 About me
+I’m a software engineer from Kyiv, passionate about automation, backend systems, and building tools that make work faster and smarter.  
+I have strong practical experience with **Node.js** and **automation scripts**, and now I’m expanding into **C++** and **system-level development** to move closer to GPU and AI engineering.
 
 ---
 
-## 🧑‍💻 About Me
+### 💻 Tech Stack
 
-I am a **Middle Fullstack Developer** passionate about delivering complete solutions — from **idea to deployment**, including **frontend, backend, database, and infrastructure**.  
-I enjoy transforming concepts into working products and optimizing workflows for maximum efficiency.  
-I constantly **learn and improve**, staying up-to-date with modern technologies and best practices.  
+#### 🟩 Core
+- **Node.js / Express** — backend logic, API, Excel/CSV automation
+- **C++ (beginner level)** — learning algorithms, SFML, and graphics
+- **Python** — console utilities and Tkinter/Flet GUI
+- **Electron / React / HTML / CSS** — desktop and web interfaces
 
-Demo back-end https://github.com/wwchugunov/apibotadmin_server
+#### ⚙️ Tools & Frameworks
+- Puppeteer, XLSX, Sequelize ORM, PostgreSQL, dotenv, Winston  
+- Git, Bash, PowerShell, macOS & Linux CLI  
+- Docker (basic), GitHub Actions  
+
+#### 🎯 Currently Learning
+- C++ fundamentals and STL  
+- SFML / OpenGL graphics  
+- Math for physics and GPU simulation  
+- Node.js + C++ integration (N-API)
 
 ---
 
-## ⚡ Skills
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,nodejs,postgres,docker,git,gitbash&theme=dark" />
-</div>
-
+### 🚀 Featured Projects
+| Project | Description | Stack |
+|----------|--------------|--------|
+| 🧩 [BotAdmin_Server](https://github.com/wwchugunov/apibotadmin_server) | Telegram admin panel with DB, authorization, and user management | Node.js, Express, Sequelize |
+| 💼 [Paylink Automation](https://github.com/wwchugunov/paylink) | Excel/Browser automation for transaction search | Node.js, Puppeteer, XLSX |
+| 📊 [CSV Compare Tool](https://github.com/wwchugunov/csv-compare) | High-performance CSV comparison for 900k+ rows | Node.js, Streams |
+| 🌐 [Visitka](https://github.com/wwchugunov/visitka) | Personal web portfolio | HTML, CSS |
+| 🧠 [C++ Mini Projects](https://github.com/wwchugunov/cpp-experiments) | Early-stage experiments with SFML, OpenGL, and physics | C++ |
 
 ---
 
-## 📫 Contact Me
+### ⚙️ GitHub Stats
+![Vasyl's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwchugunov&show_icons=true&theme=radical)
 
-<div align="left">
-  <a href="mailto:w.w.chugunov@gmail.com" title="Email">📧 w.w.chugunov@gmail.com</a><br/>
-  <a href="https://t.me/Chugunofff" target="_blank" title="Telegram">💬 @Chugunofff</a><br/>
-  <a href="https://github.com/wwchugunov" target="_blank" title="GitHub">💻 GitHub</a>
-</div>
+---
 
+### 🧩 Tech Badges
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+---
 
-
-
-
-
-
-
+⭐ *“Always learning. Building bridges between automation, C++ systems, and AI.”*
